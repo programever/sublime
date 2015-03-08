@@ -1,0 +1,1535 @@
+{
+	"folder_history":
+	[
+		"/Users/iker/Titanium/Hoosh/Resources",
+		"/Users/iker/Titanium/Hoosh",
+		"/Applications/XAMPP/xamppfiles/htdocs/paperone",
+		"/Users/iker/Workspace/lunchkaki",
+		"/Users/iker/Titanium/Lunch Kaki/Resources",
+		"/Users/iker/Titanium/Lunch Kaki"
+	],
+	"last_window_id": 14,
+	"settings":
+	{
+		"new_window_height": 1001.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"chat",
+						"chat_version"
+					],
+					[
+						"updae",
+						"update_attributes"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 167.0,
+				"selected_items":
+				[
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/iker/Workspace/lunchkaki/app/api/v3/synce.rb",
+				"/Users/iker/Workspace/lunchkaki/app/middlewares/chat_server.rb",
+				"/Users/iker/Workspace/lunchkaki/app/services/chat_message.rb",
+				"/Users/iker/Workspace/lunchkaki/app/services/user_ffl.rb",
+				"/Users/iker/Workspace/lunchkaki/app/services/lunch_request_status.rb",
+				"/Users/iker/Workspace/lunchkaki/app/api/v3/requests.rb",
+				"/Users/iker/Workspace/lunchkaki/app/api/v1/requests.rb",
+				"/Users/iker/Workspace/lunchkaki/db/migrate/20150226094631_add_last_online_to_chat.rb",
+				"/Users/iker/Workspace/lunchkaki/app/models/chat.rb",
+				"/Users/iker/Workspace/lunchkaki/spec/features/chat_workflow_spec.rb",
+				"/Users/iker/Workspace/lunchkaki/config/puma_chat.rb",
+				"/Users/iker/Workspace/lunchkaki/config/puma_api.rb",
+				"/Users/iker/Workspace/lunchkaki/app/views/chats/show.haml",
+				"/Users/iker/Workspace/lunchkaki/Gemfile",
+				"/Users/iker/Workspace/lunchkaki/app/assets/javascripts/chats/show.js.coffee",
+				"/Users/iker/Workspace/lunchkaki/config/environments/production.rb",
+				"/Users/iker/Workspace/lunchkaki/config/initializers/timeout.rb",
+				"/Users/iker/Workspace/lunchkaki/config_chat.ru",
+				"/Users/iker/Workspace/lunchkaki/config.ru",
+				"/Users/iker/Workspace/lunchkaki/spec/middlewares/chat_server_spec.rb",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/configs/def.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/db/db_creator.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/locations/location_android.js",
+				"/Users/iker/Workspace/lunchkaki/Gemfile.lock",
+				"/Users/iker/Workspace/lunchkaki/.ruby-gemset",
+				"/Users/iker/Workspace/lunchkaki/app/models/user.rb",
+				"/Users/iker/Workspace/lunchkaki/spec/models/user_spec.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/iker/Workspace/lunchkaki",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"chatter_1_last_online",
+					"chat_version_partner",
+					"URI.unescape(params[\"last_synce\"])",
+					"to_i",
+					"params[\"last_synce\"]",
+					"ap ",
+					"ap",
+					".to_s.length > 70",
+					"save_conversation",
+					"Ti.Geolocation.purpos",
+					"Ti.API.er"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"params[\"last_synce\"]",
+					"URI.unescape(params[\"last_synce\"])"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"userff",
+						"app/services/user_ffl.rb"
+					],
+					[
+						"v3sy",
+						"app/api/v3/synce.rb"
+					],
+					[
+						"v1re",
+						"app/api/v1/requests.rb"
+					],
+					[
+						"v3req",
+						"app/api/v3/requests.rb"
+					],
+					[
+						"chat",
+						"app/models/chat.rb"
+					],
+					[
+						"serreque",
+						"app/services/lunch_request_status.rb"
+					],
+					[
+						"ffl",
+						"app/services/user_ffl.rb"
+					],
+					[
+						"ws",
+						"spec/features/chat_workflow_spec.rb"
+					],
+					[
+						"synce",
+						"app/api/v3/synce.rb"
+					],
+					[
+						"show",
+						"app/assets/javascripts/chats/show.js.coffee"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"v3syn",
+						"app/api/v3/synce.rb"
+					],
+					[
+						"midd",
+						"spec/middlewares/chat_server_spec.rb"
+					],
+					[
+						"chatmes",
+						"app/services/chat_message.rb"
+					],
+					[
+						"def",
+						"helpers/configs/def.js"
+					],
+					[
+						"db",
+						"helpers/db/db_creator.js"
+					],
+					[
+						"app",
+						"app.js"
+					],
+					[
+						"locationanr",
+						"helpers/locations/location_android.js"
+					],
+					[
+						"modeluser",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 318.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1680.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ch",
+						"chats"
+					],
+					[
+						"cha",
+						"chat_numbers"
+					],
+					[
+						"chat",
+						"chat_id"
+					],
+					[
+						"pro",
+						"production"
+					],
+					[
+						"term",
+						"term_link"
+					],
+					[
+						"set",
+						"setTimeout"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/configs/def.js",
+					"settings":
+					{
+						"buffer_size": 6681,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 167.0,
+				"selected_items":
+				[
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_chat.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/servers/requests.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/locations/location.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/locations/location_android.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/servers/requests_android.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats/chats.listing.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_footer.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_global.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/alert.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/users_controller.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/footer/footer.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/listing.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/about.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/fields/field.picker.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/registration.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/configs/def.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats/chats.messages.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/terms_of_use.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/privacy_policy.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/privacy_policy_in.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/lib/location.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/models/requests.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_user_android.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app_android.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_home.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/home.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/html/policy.html",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_chatbox.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats/chats.ws_android.js",
+				"/Users/iker/Redis/redis-2.8.19/redis.conf",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows/windows.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_user.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats/chats.ws.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows/windows.back.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows/windows.openclose.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows/windows.open.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/html/term_link.html",
+				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/html/map.html",
+				"/Users/iker/Redis/redis-2.8.19/redis/redis.conf",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/users/users.listing.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/db/db_creator.js",
+				"/Users/iker/Workspace/lunchkaki/Gemfile",
+				"/Users/iker/Workspace/lunchkaki/Gemfile.lock",
+				"/Users/iker/Workspace/lunchkaki/.ruby-gemset",
+				"/Users/iker/Workspace/lunchkaki/config/puma_chat.rb",
+				"/Users/iker/Workspace/lunchkaki/app/models/user.rb",
+				"/Users/iker/Workspace/lunchkaki/spec/models/user_spec.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/iker/Titanium/Lunch Kaki/Resources",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"if(chats[0].chat_id!=win_chat_list.children[1].children[0].children[0].data[0].rows[i]){",
+					"win.children[2].children[1].children[1].text = FN.receive;",
+					"if(chat_numbers[i].id == LK.chat_id){",
+					"check_badge_numbers",
+					"function create_footer",
+					"create_footer",
+					"need to be",
+					"you need to be",
+					"123",
+					"Titanium",
+					"require(",
+					"request_user_li",
+					"getCurrentLocation",
+					"update_synce",
+					"update_synce_once",
+					"request_synce_once.",
+					"request_synce.",
+					"_login",
+					"request_synce.",
+					"request_synce_once",
+					"update_synce_data",
+					"start_synce",
+					"request_synce",
+					"WS_receive.send(",
+					"WS_receive",
+					"chat_ver",
+					"log",
+					"account",
+					"you need to be",
+					"getCurrentPosition",
+					"your location service",
+					".open('GET'",
+					"map_timer",
+					"getCurrentLocation",
+					"inden",
+					"\"",
+					"idle",
+					"LK.ds + 'html' + LK.ds ",
+					"Ti.Geolocation.purpos",
+					"Ti.API.er"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Ti",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/iker/Titanium/Lunch Kaki/Resources"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/iker/Titanium/Lunch Kaki/Resources/helpers/configs/def.js",
+							"settings":
+							{
+								"buffer_size": 6681,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2711,
+										2711
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1131.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0 4 960 1053 0 0 1920 1057 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"loca",
+						"helpers/locations/location.js"
+					],
+					[
+						"foo",
+						"helpers/events/events_footer.js"
+					],
+					[
+						"evenc",
+						"helpers/events/events_chat.js"
+					],
+					[
+						"chatls",
+						"helpers/chats/chats.listing.js"
+					],
+					[
+						"req",
+						"helpers/servers/requests.js"
+					],
+					[
+						"glo",
+						"helpers/events/events_global.js"
+					],
+					[
+						"evenchat",
+						"helpers/events/events_chat.js"
+					],
+					[
+						"foot",
+						"helpers/footer/footer.js"
+					],
+					[
+						"def",
+						"helpers/configs/def.js"
+					],
+					[
+						"app",
+						"app_ios.js"
+					],
+					[
+						"chatme",
+						"helpers/chats/chats.messages.js"
+					],
+					[
+						"chatmes",
+						"helpers/chats/chats.messages.js"
+					],
+					[
+						"userli",
+						"views/user/listing.js"
+					],
+					[
+						"poli",
+						"views/user/privacy_policy_in.js"
+					],
+					[
+						"term",
+						"views/user/terms_of_use.js"
+					],
+					[
+						"abot",
+						"views/application/about.js"
+					],
+					[
+						"regis",
+						"views/user/registration.js"
+					],
+					[
+						"appan",
+						"app_android.js"
+					],
+					[
+						"about",
+						"views/application/about.js"
+					],
+					[
+						"requ",
+						"helpers/servers/requests.js"
+					],
+					[
+						"evenho",
+						"helpers/events/events_home.js"
+					],
+					[
+						"poi",
+						"html/policy.html"
+					],
+					[
+						"home",
+						"views/application/home.js"
+					],
+					[
+						"evenchatbox",
+						"helpers/events/events_chatbox.js"
+					],
+					[
+						"evechat",
+						"helpers/events/events_chat.js"
+					],
+					[
+						"user",
+						"views/user/listing.js"
+					],
+					[
+						"evenuser",
+						"helpers/events/events_user.js"
+					],
+					[
+						"win",
+						"helpers/windows/windows.js"
+					],
+					[
+						"ws",
+						"helpers/chats/chats.ws.js"
+					],
+					[
+						"apio",
+						"app_ios.js"
+					],
+					[
+						"local",
+						"helpers/locations/location_android.js"
+					],
+					[
+						"userlist",
+						"views/user/listing.js"
+					],
+					[
+						"winbac",
+						"helpers/windows/windows.back.js"
+					],
+					[
+						"open",
+						"helpers/windows/windows.openclose.js"
+					],
+					[
+						"pol",
+						"views/user/privacy_policy_in.js"
+					],
+					[
+						"policy",
+						"views/user/privacy_policy.js"
+					],
+					[
+						"terml",
+						"html/term_link.html"
+					],
+					[
+						"evenuseran",
+						"helpers/events/events_user_android.js"
+					],
+					[
+						"db",
+						"helpers/db/db_creator.js"
+					],
+					[
+						"locationanr",
+						"helpers/locations/location_android.js"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"modeluser",
+						"spec/models/user_spec.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 396.0,
+			"status_bar_visible": true,
+			"window_id": 3,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"chat",
+						"chat_version"
+					],
+					[
+						"updae",
+						"update_attributes"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/iker/Workspace/lunchkaki/app/services/user_ffl.rb",
+					"settings":
+					{
+						"buffer_size": 3400,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nPackage Control:\n---------------\n\n  Version 3.0 Release Notes\n  \n  \n  **** Windows Sublime Text 3 Users ****\n  \n  Due to a bug in Package Control 2.0, Windows ST3 users will need to open the\n  Sublime Text console (ctrl+`) and execute the following Python to properly\n  upgrade. All other users may ignore this part of the message.\n  \n  Make sure NOT to copy the leading two spaces, or an \"unexpected indent\" error\n  will occur.\n  \n  import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')\n  \n  ********\n  \n  \n  Package Control 3.0 adds a bunch of polish, improving the Sublime Text\n  experience for users and package developers:\n  \n   - improved upgrades of themes, color schemes and syntaxes\n   - dependency support\n   - SSL for Linux\n   - new secondary Windows HTTP backend\n   - patches for Python in Sublime Text 2 on Windows\n   - commands to easily remove channels and repositories\n   - an events API for packages\n   - improved documentation\n  \n  \n  As of July 2014, I now work for myself. This has allowed me to spend more time\n  working on open source software, including Package Control. If you appreciate\n  the work I've done, please consider a small donation. If even 5% of regular\n  users donated the price of a coffee or beer, that would cover quite a bit of\n  my development time! See https://packagecontrol.io/about for options.\n  \n  \n  Some recent Package Control stats:\n  \n   - every weekday over 1M JSON requests hit the channel server\n   - in December, the channel server will transmit 4TB+ of compressed JSON\n   - users have installed, upgraded or removed 85M+ packages since late 2011\n  \n  \n  Read more about the release at:\n  \n  https://packagecontrol.io/news#2014-12-23-Package_Control_30_Released\n  \n",
+					"settings":
+					{
+						"buffer_size": 2443,
+						"line_ending": "Unix",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 167.0,
+				"selected_items":
+				[
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/iker/Workspace/lunchkaki/app/api/v3/synce.rb",
+				"/Users/iker/Workspace/lunchkaki/app/middlewares/chat_server.rb",
+				"/Users/iker/Workspace/lunchkaki/app/services/chat_message.rb",
+				"/Users/iker/Workspace/lunchkaki/app/services/user_ffl.rb",
+				"/Users/iker/Workspace/lunchkaki/app/services/lunch_request_status.rb",
+				"/Users/iker/Workspace/lunchkaki/app/api/v3/requests.rb",
+				"/Users/iker/Workspace/lunchkaki/app/api/v1/requests.rb",
+				"/Users/iker/Workspace/lunchkaki/db/migrate/20150226094631_add_last_online_to_chat.rb",
+				"/Users/iker/Workspace/lunchkaki/app/models/chat.rb",
+				"/Users/iker/Workspace/lunchkaki/spec/features/chat_workflow_spec.rb",
+				"/Users/iker/Workspace/lunchkaki/config/puma_chat.rb",
+				"/Users/iker/Workspace/lunchkaki/config/puma_api.rb",
+				"/Users/iker/Workspace/lunchkaki/app/views/chats/show.haml",
+				"/Users/iker/Workspace/lunchkaki/Gemfile",
+				"/Users/iker/Workspace/lunchkaki/app/assets/javascripts/chats/show.js.coffee",
+				"/Users/iker/Workspace/lunchkaki/config/environments/production.rb",
+				"/Users/iker/Workspace/lunchkaki/config/initializers/timeout.rb",
+				"/Users/iker/Workspace/lunchkaki/config_chat.ru",
+				"/Users/iker/Workspace/lunchkaki/config.ru",
+				"/Users/iker/Workspace/lunchkaki/spec/middlewares/chat_server_spec.rb",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/configs/def.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/db/db_creator.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/locations/location_android.js",
+				"/Users/iker/Workspace/lunchkaki/Gemfile.lock",
+				"/Users/iker/Workspace/lunchkaki/.ruby-gemset",
+				"/Users/iker/Workspace/lunchkaki/app/models/user.rb",
+				"/Users/iker/Workspace/lunchkaki/spec/models/user_spec.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/iker/Workspace/lunchkaki",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"chatter_1_last_online",
+					"chat_version_partner",
+					"URI.unescape(params[\"last_synce\"])",
+					"to_i",
+					"params[\"last_synce\"]",
+					"ap ",
+					"ap",
+					".to_s.length > 70",
+					"save_conversation",
+					"Ti.Geolocation.purpos",
+					"Ti.API.er"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"params[\"last_synce\"]",
+					"URI.unescape(params[\"last_synce\"])"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/iker/Workspace/lunchkaki"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/iker/Workspace/lunchkaki/app/services/user_ffl.rb",
+							"settings":
+							{
+								"buffer_size": 3400,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1807,
+										1807
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 257.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"settings":
+							{
+								"buffer_size": 2443,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2443,
+										2443
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0 34 1680 1023 0 0 1920 1057 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"userff",
+						"app/services/user_ffl.rb"
+					],
+					[
+						"v3sy",
+						"app/api/v3/synce.rb"
+					],
+					[
+						"v1re",
+						"app/api/v1/requests.rb"
+					],
+					[
+						"v3req",
+						"app/api/v3/requests.rb"
+					],
+					[
+						"chat",
+						"app/models/chat.rb"
+					],
+					[
+						"serreque",
+						"app/services/lunch_request_status.rb"
+					],
+					[
+						"ffl",
+						"app/services/user_ffl.rb"
+					],
+					[
+						"ws",
+						"spec/features/chat_workflow_spec.rb"
+					],
+					[
+						"synce",
+						"app/api/v3/synce.rb"
+					],
+					[
+						"show",
+						"app/assets/javascripts/chats/show.js.coffee"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"v3syn",
+						"app/api/v3/synce.rb"
+					],
+					[
+						"midd",
+						"spec/middlewares/chat_server_spec.rb"
+					],
+					[
+						"chatmes",
+						"app/services/chat_message.rb"
+					],
+					[
+						"def",
+						"helpers/configs/def.js"
+					],
+					[
+						"db",
+						"helpers/db/db_creator.js"
+					],
+					[
+						"app",
+						"app.js"
+					],
+					[
+						"locationanr",
+						"helpers/locations/location_android.js"
+					],
+					[
+						"modeluser",
+						"spec/models/user_spec.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 318.0,
+			"status_bar_visible": true,
+			"window_id": 4,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ch",
+						"chats"
+					],
+					[
+						"cha",
+						"chat_numbers"
+					],
+					[
+						"chat",
+						"chat_id"
+					],
+					[
+						"pro",
+						"production"
+					],
+					[
+						"term",
+						"term_link"
+					],
+					[
+						"set",
+						"setTimeout"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 167.0,
+				"selected_items":
+				[
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_chat.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/servers/requests.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/locations/location.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/locations/location_android.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/servers/requests_android.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats/chats.listing.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_footer.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_global.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/alert.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/controllers/users_controller.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/footer/footer.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/listing.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/about.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/fields/field.picker.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/registration.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/configs/def.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app_ios.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats/chats.messages.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/terms_of_use.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/privacy_policy.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/user/privacy_policy_in.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/lib/location.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/models/requests.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_user_android.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/app_android.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_home.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/views/application/home.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/html/policy.html",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_chatbox.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats/chats.ws_android.js",
+				"/Users/iker/Redis/redis-2.8.19/redis.conf",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows/windows.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/events/events_user.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/chats/chats.ws.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows/windows.back.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows/windows.openclose.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/windows/windows.open.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/html/term_link.html",
+				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/iker/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/html/map.html",
+				"/Users/iker/Redis/redis-2.8.19/redis/redis.conf",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/users/users.listing.js",
+				"/Users/iker/Titanium/Lunch Kaki/Resources/helpers/db/db_creator.js",
+				"/Users/iker/Workspace/lunchkaki/Gemfile",
+				"/Users/iker/Workspace/lunchkaki/Gemfile.lock",
+				"/Users/iker/Workspace/lunchkaki/.ruby-gemset",
+				"/Users/iker/Workspace/lunchkaki/config/puma_chat.rb",
+				"/Users/iker/Workspace/lunchkaki/app/models/user.rb",
+				"/Users/iker/Workspace/lunchkaki/spec/models/user_spec.rb"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/Users/iker/Titanium/Lunch Kaki/Resources",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"if(chats[0].chat_id!=win_chat_list.children[1].children[0].children[0].data[0].rows[i]){",
+					"win.children[2].children[1].children[1].text = FN.receive;",
+					"if(chat_numbers[i].id == LK.chat_id){",
+					"check_badge_numbers",
+					"function create_footer",
+					"create_footer",
+					"need to be",
+					"you need to be",
+					"123",
+					"Titanium",
+					"require(",
+					"request_user_li",
+					"getCurrentLocation",
+					"update_synce",
+					"update_synce_once",
+					"request_synce_once.",
+					"request_synce.",
+					"_login",
+					"request_synce.",
+					"request_synce_once",
+					"update_synce_data",
+					"start_synce",
+					"request_synce",
+					"WS_receive.send(",
+					"WS_receive",
+					"chat_ver",
+					"log",
+					"account",
+					"you need to be",
+					"getCurrentPosition",
+					"your location service",
+					".open('GET'",
+					"map_timer",
+					"getCurrentLocation",
+					"inden",
+					"\"",
+					"idle",
+					"LK.ds + 'html' + LK.ds ",
+					"Ti.Geolocation.purpos",
+					"Ti.API.er"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Ti",
+					"'"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/iker/Titanium/Hoosh/Resources"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "960 4 960 1053 0 0 1920 1057 ",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"loca",
+						"helpers/locations/location.js"
+					],
+					[
+						"foo",
+						"helpers/events/events_footer.js"
+					],
+					[
+						"evenc",
+						"helpers/events/events_chat.js"
+					],
+					[
+						"chatls",
+						"helpers/chats/chats.listing.js"
+					],
+					[
+						"req",
+						"helpers/servers/requests.js"
+					],
+					[
+						"glo",
+						"helpers/events/events_global.js"
+					],
+					[
+						"evenchat",
+						"helpers/events/events_chat.js"
+					],
+					[
+						"foot",
+						"helpers/footer/footer.js"
+					],
+					[
+						"def",
+						"helpers/configs/def.js"
+					],
+					[
+						"app",
+						"app_ios.js"
+					],
+					[
+						"chatme",
+						"helpers/chats/chats.messages.js"
+					],
+					[
+						"chatmes",
+						"helpers/chats/chats.messages.js"
+					],
+					[
+						"userli",
+						"views/user/listing.js"
+					],
+					[
+						"poli",
+						"views/user/privacy_policy_in.js"
+					],
+					[
+						"term",
+						"views/user/terms_of_use.js"
+					],
+					[
+						"abot",
+						"views/application/about.js"
+					],
+					[
+						"regis",
+						"views/user/registration.js"
+					],
+					[
+						"appan",
+						"app_android.js"
+					],
+					[
+						"about",
+						"views/application/about.js"
+					],
+					[
+						"requ",
+						"helpers/servers/requests.js"
+					],
+					[
+						"evenho",
+						"helpers/events/events_home.js"
+					],
+					[
+						"poi",
+						"html/policy.html"
+					],
+					[
+						"home",
+						"views/application/home.js"
+					],
+					[
+						"evenchatbox",
+						"helpers/events/events_chatbox.js"
+					],
+					[
+						"evechat",
+						"helpers/events/events_chat.js"
+					],
+					[
+						"user",
+						"views/user/listing.js"
+					],
+					[
+						"evenuser",
+						"helpers/events/events_user.js"
+					],
+					[
+						"win",
+						"helpers/windows/windows.js"
+					],
+					[
+						"ws",
+						"helpers/chats/chats.ws.js"
+					],
+					[
+						"apio",
+						"app_ios.js"
+					],
+					[
+						"local",
+						"helpers/locations/location_android.js"
+					],
+					[
+						"userlist",
+						"views/user/listing.js"
+					],
+					[
+						"winbac",
+						"helpers/windows/windows.back.js"
+					],
+					[
+						"open",
+						"helpers/windows/windows.openclose.js"
+					],
+					[
+						"pol",
+						"views/user/privacy_policy_in.js"
+					],
+					[
+						"policy",
+						"views/user/privacy_policy.js"
+					],
+					[
+						"terml",
+						"html/term_link.html"
+					],
+					[
+						"evenuseran",
+						"helpers/events/events_user_android.js"
+					],
+					[
+						"db",
+						"helpers/db/db_creator.js"
+					],
+					[
+						"locationanr",
+						"helpers/locations/location_android.js"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"modeluser",
+						"spec/models/user_spec.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 396.0,
+			"status_bar_visible": true,
+			"window_id": 14,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
